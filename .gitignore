@@ -1,0 +1,19 @@
+# Byte-compiled Python files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment (if you use one)
+.venv/
+venv/
+env/
+ENV/
+
+# Data files (if you don't want to track them - depends on your script)
+*.csv
+*.xlsx
+
+# OS generated files
+.DS_Store
+Thumbs.db
